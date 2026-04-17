@@ -1,0 +1,7 @@
+requests
+feedparser
+pandas
+scikit-learn
+python-dateutil
+pyyaml
+spacy

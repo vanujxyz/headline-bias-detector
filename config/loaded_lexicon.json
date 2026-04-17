@@ -1,0 +1,23 @@
+{
+  "negative": [
+    "crisis", "fail", "failed", "failure", "attack", "attacks",
+    "corruption", "violent", "violence", "scandal", "controversial",
+    "blame", "accuse", "accused", "collapse", "danger", "threat",
+    "chaos", "illegal", "crime", "criminal", "fraud", "misleading",
+    "criticism", "criticised", "criticized", "weak", "decline",
+    "loss", "losses", "damage", "dead", "death", "killed",
+    "arrest", "charged", "investigation"
+  ],
+  "positive": [
+    "success", "successful", "growth", "benefit", "strong",
+    "improve", "improved", "progress", "achievement", "boost",
+    "win", "record", "development", "reform", "support",
+    "gain", "gains", "stable", "stability", "secure",
+    "increase", "increased", "expand", "expansion"
+  ],
+  "intensifiers": [
+    "very", "extremely", "highly", "massive", "huge",
+    "major", "significant", "serious", "dramatic",
+    "sharply", "strongly", "deeply"
+  ]
+}

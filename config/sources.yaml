@@ -1,0 +1,58 @@
+sources:
+
+  # Global - Center
+  - name: Reuters World
+    url: https://feeds.reuters.com/Reuters/worldNews
+    lean: center
+
+  - name: AP News
+    url: https://apnews.com/rss
+    lean: center
+
+  - name: BBC
+    url: http://feeds.bbci.co.uk/news/rss.xml
+    lean: center
+
+  # Global - Left
+  - name: Guardian
+    url: https://www.theguardian.com/world/rss
+    lean: center-left
+
+  - name: HuffPost
+    url: https://www.huffpost.com/section/front-page/feed
+    lean: left
+
+  # Global - Right
+  - name: Fox News
+    url: http://feeds.foxnews.com/foxnews/latest
+    lean: right
+
+  - name: Breitbart
+    url: http://feeds.feedburner.com/breitbart
+    lean: right
+
+  # Middle East / Alt framing
+  - name: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    lean: center-left
+
+  # INDIA (VERY IMPORTANT)
+  - name: The Hindu
+    url: https://www.thehindu.com/news/national/feeder/default.rss
+    lean: center
+
+  - name: Indian Express
+    url: https://indianexpress.com/section/india/feed/
+    lean: center
+
+  - name: NDTV
+    url: https://feeds.feedburner.com/ndtvnews-top-stories
+    lean: center-left
+
+  - name: Times of India
+    url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+    lean: center-right
+
+  - name: Republic World
+    url: https://www.republicworld.com/rss
+    lean: right

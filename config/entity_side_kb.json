@@ -1,0 +1,58 @@
+{
+  "Modi": "ruling_party_india",
+  "Amit Shah": "ruling_party_india",
+  "BJP": "ruling_party_india",
+  "NDA": "ruling_party_india",
+
+  "Rahul Gandhi": "opposition_india",
+  "Congress": "opposition_india",
+  "TMC": "opposition_india",
+  "DMK": "opposition_india",
+  "Trinamool Congress": "opposition_india",
+  "Owaisi": "opposition_india",
+
+  "Nitish Kumar": "regional_india",
+  "Naveen Patnaik": "regional_india",
+  "Pawan Kalyan": "regional_india",
+
+  "BBC": "center_media",
+  "BBC News": "center_media",
+  "Reuters": "center_media",
+  "New York Times": "center_left_media",
+  "Guardian": "center_left_media",
+  "Breitbart": "right_media",
+  "Fox News": "right_media",
+
+  "Democrats": "left_us",
+  "Democrat": "left_us",
+  "Dems": "left_us",
+
+  "Republicans": "right_us",
+  "GOP": "right_us",
+
+  "Trump": "right_us",
+  "Biden": "left_us",
+
+  "India": "country",
+  "United States": "country",
+  "US": "country",
+  "U.S.": "country",
+  "Russia": "country",
+  "China": "country",
+  "Ukraine": "country",
+  "Israel": "country",
+  "Iran": "country",
+  "Pakistan": "country",
+
+  "Supreme Court": "institution",
+  "Parliament": "institution",
+  "Lok Sabha": "institution",
+  "Rajya Sabha": "institution",
+  "FBI": "institution",
+  "CBI": "institution",
+
+  "UN": "global_org",
+  "U.N.": "global_org",
+  "NATO": "global_org",
+  "BRICS": "global_org"
+}
